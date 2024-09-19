@@ -1,0 +1,6 @@
+api_key: 
+model_name: claude-3-5-sonnet-20240620
+anthropic_headers:
+  anthropic-beta: "prompt-caching-2024-07-31,max-tokens-3-5-sonnet-2024-07-15"
+max_tokens: 8192
+interactive_mode: true  
